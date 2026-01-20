@@ -1,15 +1,5 @@
 # Azure DevOps Interview Questions and Answers
 
-## Sources
-1. [ccslearningacademy.com](https://ccslearningacademy.com/azure-devops-interview-questions)
-2. [devopsschool.com](https://www.devopsschool.com/blog/top-50-azure-devops-interview-questions-and-answers/)
-3. [k21academy.com](https://k21academy.com/microsoft-azure/az-400/azure-devops-interview-questions/)
-4. [nigelfrank.com](https://www.nigelfrank.com/advice/azure-devops-interview-questions)
-5. [razorops.com](https://razorops.com/blog/azure-devops-interview-questions)
-6. [edureka.co](https://www.edureka.co/blog/interview-questions/azure-devops-interview-questions/)
-7. [almabetter.com](https://www.almabetter.com/bytes/articles/azure-devops-interview-questions)
-8. [datacamp.com](https://www.datacamp.com/blog/azure-devops-interview-questions)
-9. [medium.com](https://medium.com/@javinpaul/top-50-azure-devops-interview-questions-and-answers-for-2024-5d5c0e185108)
 
 ## Foundational Concepts and Overview
 
@@ -498,3 +488,4 @@ Azure DevOps is a first-class citizen for container workflows.
 *   **Push:** It authenticates via Service Connections to push images to Azure Container Registry (ACR), Docker Hub, or GCR.
 *   **Scan:** Tasks like Trivy or Aqua Security can scan the image layers during the pipeline.
 *   **Deploy:** The `KubernetesManifest@0` task takes the image and deploys it to a cluster, handling secret creation for pulling the image from private registries.
+
