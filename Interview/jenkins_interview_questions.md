@@ -1,17 +1,5 @@
 # Jenkins Interview Questions and Answers
 
-## Sources
-1. [interviewcoder.co](https://www.interviewcoder.co/jenkins-interview-questions/)
-2. [testgorilla.com](https://www.testgorilla.com/blog/jenkins-interview-questions/)
-3. [devopsschool.com](https://www.devopsschool.com/blog/top-50-jenkins-interview-questions-and-answers/)
-4. [simplilearn.com](https://www.simplilearn.com/tutorials/jenkins-tutorial/jenkins-interview-questions)
-5. [geeksforgeeks.org](https://www.geeksforgeeks.org/jenkins-interview-questions/)
-6. [interviewbit.com](https://www.interviewbit.com/jenkins-interview-questions/)
-7. [hirist.tech](https://www.hirist.tech/blog/jenkins-interview-questions-and-answers/)
-8. [scribd.com](https://www.scribd.com/document/425501865/Top-50-Jenkins-Interview-Questions)
-9. [edureka.co](https://www.edureka.co/blog/interview-questions/jenkins-interview-questions/)
-10. [medium.com](https://medium.com/devops-dudes/top-jenkins-interview-questions-and-answers-for-2024-5a3d0f0e8f0b)
-11. [devopstraininginstitute.com](https://www.devopstraininginstitute.com/blog/jenkins-interview-questions-and-answers/)
 
 ## General and Foundational Questions
 
@@ -519,3 +507,4 @@ A bug was pushed to Prod.
     standardPipeline(type: 'maven')
     ```
 4.  Now 100 projects use the exact same template. If you need to add a Security Scan step, add it to `standardPipeline.groovy` and all 100 projects get it instantly.
+
