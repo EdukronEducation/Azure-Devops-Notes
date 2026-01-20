@@ -1,16 +1,5 @@
 # CI/CD Pipeline Interview Questions and Answers
 
-## Sources
-1. [razorops.com](https://razorops.com/blog/ci-cd-pipeline-interview-questions)
-2. [hirist.tech](https://www.hirist.tech/blog/ci-cd-interview-questions/)
-3. [semaphore.io](https://semaphoreci.com/blog/ci-cd-interview-questions)
-4. [mentorcruise.com](https://mentorcruise.com/blog/ci-cd-interview-questions/)
-5. [finalroundai.com](https://www.finalroundai.com/blog/ci-cd-interview-questions)
-6. [bugbug.io](https://bugbug.io/blog/testing-frameworks/cicd-interview-questions/)
-7. [interviewbit.com](https://www.interviewbit.com/ci-cd-interview-questions/)
-8. [sentinelone.com](https://www.sentinelone.com/blog/ci-cd-pipeline-security-best-practices/)
-9. [h2kinfosys.com](https://www.h2kinfosys.com/blog/ci-cd-interview-questions/)
-10. [finalroundai.com](https://www.finalroundai.com/blog/ci-cd-interview-questions)
 
 ## Fundamental CI/CD Concepts
 
@@ -439,3 +428,4 @@ Treat pipelines as production software.
     *   Network download speed (Pip/Npm).
     *   Tests (Sleeps/Timeouts).
     *   Docker build (Not taking advantage of layer caching).
+
