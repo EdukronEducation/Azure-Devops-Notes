@@ -1,17 +1,5 @@
 # Kubernetes Interview Questions and Answers
 
-## Sources
-1. [cloudzenix.in](https://cloudzenix.in/kubernetes-interview-questions-and-answers/)
-2. [razorops.com](https://razorops.com/blog/kubernetes-interview-questions)
-3. [cloudzero.com](https://www.cloudzero.com/blog/kubernetes-interview-questions/)
-4. [spacelift.io](https://spacelift.io/blog/kubernetes-interview-questions)
-5. [geeksforgeeks.org](https://www.geeksforgeeks.org/kubernetes-interview-questions/)
-6. [simplilearn.com](https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-interview-questions)
-7. [devopsschool.com](https://www.devopsschool.com/blog/top-50-kubernetes-interview-questions-and-answers/)
-8. [edureka.co](https://www.edureka.co/blog/interview-questions/kubernetes-interview-questions/)
-9. [plainenglish.io](https://plainenglish.io/blog/top-50-kubernetes-interview-questions-2024-edition)
-10. [medium.com](https://medium.com/@devopslearning/kubernetes-interview-questions-and-answers-2024-5a3d0f0e8f0b)
-
 ## Basic Kubernetes Concepts
 
 ### 1. What is Kubernetes?
@@ -479,3 +467,4 @@ Kubernetes is a declarative system.
 *   **Storage:** StorageClasses backed by Cloud Block Store (EBS/Premium SSD).
 *   **Observability:** Prometheus + Grafana (Monitoring), ELK/Splunk (Logging).
 *   **Security:** Private endpoints, Jumpbox/Bastion for admin access.
+
